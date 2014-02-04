@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DL Robots.txt
-Description: 
+Description: DL Robots.txt Позволяет редактировать содержимое вашего файла robots.txt и задавать оптимальные настройки для поисковых одним кликом мышки
 Plugin URI: http://vcard.dd-l.name/wp-plugins/
 Version: 1.0
 Author: Dyadya Lesha (info@dd-l.name)
