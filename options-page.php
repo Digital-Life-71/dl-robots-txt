@@ -39,9 +39,7 @@ function dl_robots_js_function( v ) {
 					class="large-text code" 
 					type="textarea" 
 					rows="24" 
-				>
-					<?php echo get_option('dl_robots_option'); ?>
-				</textarea>
+				><?php echo get_option('dl_robots_option'); ?></textarea>
 			</p>
 			<p>
 				<b>Попросить поисковые системы не индексировать сайт</b>
