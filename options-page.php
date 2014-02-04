@@ -39,9 +39,7 @@ function dl_robots_js_function( v ) {
 					class="large-text code" 
 					type="textarea" 
 					rows="24" 
-				>
-					<?php echo get_option('dl_robots_option'); ?>
-				</textarea>
+				><?php echo get_option('dl_robots_option'); ?></textarea>
 			</p>
 			<p>
 				<b>Попросить поисковые системы не индексировать сайт</b>
@@ -56,7 +54,7 @@ function dl_robots_js_function( v ) {
 			
 			<p>
 			
-				Вы можите задать <a href="#" onclick="dl_robots_js_function('dl_robots_text'); return false;" >задать оптимальные настройки</a> для файла robots.txt для поисковых машин Yandex и Google. <br /><b color="red">(все значения в поле будут перезаписанны)</b>
+				Вы можите задать <a href="#" onclick="dl_robots_js_function('dl_robots_text'); return false;" >задать оптимальные настройки</a> для файла robots.txt для поисковых машин Yandex и Google. <br /><b color="red">(все значения в поле будут перезаписаны)</b>
 			
 		</div>
 
