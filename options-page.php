@@ -29,7 +29,7 @@ function dl_robots_js_function( v ) {
 
 	<?php if ( file_exists( ABSPATH . 'robots.txt' ) ) { ?>
 		<div style="color: #E14D43; font-weight:bold;">
-			<p>В директории вашего сайта находится реальный файл robots.txt ! Это неправильная ситуация, т.к. robots.txt должен формироваться динамически с помощью WordPress.</p>
+			<p>В директории вашего сайта находится реальный файл robots.txt! Это неправильная ситуация, т.к. robots.txt должен формироваться динамически с помощью WordPress.</p>
 			<p>Для нормальной работы этого плагина, вам нужно:</p>
 
 			<ol>
